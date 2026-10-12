@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = r"""# ALCOVE — Curated Commerce
+ ALCOVE — Curated Commerce
 
 ALCOVE is a full-stack e-commerce application built with the MERN stack. It is designed around a curated, premium shopping experience, pairing a clean editorial-style storefront with customer authentication, product discovery, cart management, and a backend-driven checkout flow.
 
